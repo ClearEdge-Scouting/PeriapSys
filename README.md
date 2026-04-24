@@ -81,6 +81,8 @@ Automated checks include:
   - Lunar, Mars, deep space missions
 - Resolves orbital elements and visualizes mission geometry
 
+<img width="1857" height="876" alt="Image" src="https://github.com/user-attachments/assets/7f12435b-d4da-4ad4-9211-8348f738e71f" />
+
 ---
 
 ### 🌐 Interactive System Graph
