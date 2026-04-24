@@ -136,3 +136,10 @@ npm run dev
 ```bash
 export OPENAI_API_KEY=your_key_here
 ```
+
+---
+
+## Contact
+For collaboration, licensing, or research partnerships:
+ClearEdge owner
+clearedge.official@outlook.com
