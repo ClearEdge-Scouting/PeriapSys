@@ -7,7 +7,7 @@ Designed for **Phase 0 / Phase A studies**, PeriapSys enables engineers to move 
 
 ## Design Philosophy
 ### 1. Engineering-first AI
-AI augments systems engineering; it does not replace it.
+AI augments systems engineering; it does not replace it. Note that the use of an LLM model is optional. That is, if no API key is entered (with available tokens), no LLM-powered suggestions will be provided.
 
 ### 2. Standards-aligned
 Outputs are grounded in ECSS functional engineering standards.
