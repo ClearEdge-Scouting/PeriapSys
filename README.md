@@ -49,12 +49,16 @@ Automated checks include:
 - Traceability completeness — §4.7.6
 - Requirement measurability — §4.5.1d
 
+<img width="1894" height="908" alt="Image" src="https://github.com/user-attachments/assets/2bacd17c-4a66-4899-94ba-a2f4ef1d963f" />
+
 ---
 
 ### 🔥 Critical Function Identification (FMECA-ready)
 - Flags safety- and mission-critical functions
 - Identifies candidates for failure analysis (FMECA)
 - Based on ECSS §4.8.1
+
+<img width="1890" height="911" alt="Image" src="https://github.com/user-attachments/assets/e2738131-a989-47fb-8125-1f0312af2bc0" />
 
 ---
 
