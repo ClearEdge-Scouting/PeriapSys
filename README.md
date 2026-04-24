@@ -135,5 +135,3 @@ npm run dev
 ```bash
 export OPENAI_API_KEY=your_key_here
 ```
-```bash
-export OPENAI_API_KEY=your_key_here
