@@ -119,15 +119,21 @@ Automated checks include:
 ```bash
 git clone https://github.com/your-org/periapsys-architect.git
 cd periapsys-architect
+```
 ### 2. Backend setup
 ```bash
 pip install -r requirements.txt
 uvicorn main:app --reload
+```
 ### 3. Frontend setup
 ```bash
 cd frontend
 npm install
 npm run dev
+```
 ### 4. Enable AI generation (optional)
+```bash
+export OPENAI_API_KEY=your_key_here
+```
 ```bash
 export OPENAI_API_KEY=your_key_here
