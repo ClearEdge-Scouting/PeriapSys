@@ -44,17 +44,17 @@ Compress weeks of Phase 0 work into minutes without losing rigor.
 
 ### ⚠️ Systems Engineering Validation (ECSS-Aligned)
 Automated checks include:
-- Decomposition limits (≤7 children per node) — §4.5.3e  
-- Naming compliance — §3.1.2  
-- Traceability completeness — §4.7.6  
-- Requirement measurability — §4.5.1d  
+- Decomposition limits (≤11 children per node)
+- Naming compliance — §3.1.2
+- Traceability completeness — §4.7.6
+- Requirement measurability — §4.5.1d
 
 ---
 
 ### 🔥 Critical Function Identification (FMECA-ready)
-- Flags safety- and mission-critical functions  
-- Identifies candidates for failure analysis (FMECA)  
-- Based on ECSS §4.8.1  
+- Flags safety- and mission-critical functions
+- Identifies candidates for failure analysis (FMECA)
+- Based on ECSS §4.8.1
 
 ---
 
@@ -77,18 +77,19 @@ Automated checks include:
 
 ### 🛰️ Orbital Context Integration
 - Supports:
-  - LEO, GEO, SSO, HEO  
-  - Lunar, Mars, deep space missions  
+  - LEO, GEO, SSO, HEO
+  - Lunar, Mars, deep space missions
 - Resolves orbital elements and visualizes mission geometry
 
 ---
 
 ### 🌐 Interactive System Graph
 - Visual graph of:
-  - Functions  
-  - Requirements  
-  - Subsystems  
-  - Interfaces  
+  - Functions
+  - Subfunctions
+  - Requirements
+  - Subsystems
+  - Interfaces
 - Built with React Flow + Dagre layout
 
 ---
@@ -96,20 +97,20 @@ Automated checks include:
 ### 💾 Mission Persistence & Retrieval
 - Store and reload mission architectures  
 - Includes:
-  - Graph  
-  - Validation results  
-  - AI insights  
-  - Functional matrix  
-- Backed by SQLite + SQLAlchemy  
+  - Graph
+  - Validation results
+  - AI insights
+  - Functional matrix
+- Backed by SQLite + SQLAlchemy
 
 ---
 
 ### 🤖 AI Reasoning & Suggestions
 - Identifies:
-  - Missing functions  
-  - Weak requirements  
-  - Architectural gaps  
-- Suggests improvements interactively  
+  - Missing functions
+  - Weak requirements
+  - Architectural gaps
+- Suggests improvements interactively
 
 ---
 
